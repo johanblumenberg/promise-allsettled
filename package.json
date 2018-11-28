@@ -1,5 +1,5 @@
 {
-  "name": "promise-allsettled",
+  "name": "promise-settle-all",
   "version": "1.0.0",
   "description": "Promise.all function that waits for all promises to be settled",
   "main": "dist/index.js",
